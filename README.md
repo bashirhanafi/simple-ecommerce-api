@@ -1,7 +1,7 @@
 
 # Simple E-Commerce API
 
-The E-commerce API is a self-project that aims to create Create, Read, Update, and Delete (CRUD) data and aims to connect to the database. This project uses Spring Boot as framework, MongoDB as database. This project uses the Dependency Injection design pattern and implements the pagination technique.
+The E-commerce API is a self-project that aims to create Create, Read, Update, and Delete (CRUD) product and aims to connect to the database. This project uses Spring Boot as framework, MongoDB as database. This project uses the Dependency Injection design pattern and implements the pagination technique.
 
 ## Tools & Technology
 - Java Version 8
