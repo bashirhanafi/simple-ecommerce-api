@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "63cbbb83913e21191ae2eca0"
+  },
+  "createdAt": "2023-01-21 18:16:33",
+  "name": "Lato-Lato V90 Version",
+  "price": 50000,
+  "stock": 30,
+  "weight": 0.3,
+  "description": "Lato-lato merupakan mainan dengan dua buah bandulan berbentuk bola berat yang terbuat dari plastik atau kayu dan digantung dengan tali yang disambung pada ujung bandulan tersebut. Cara bermainnya cukup sederhana, pemain tinggal mengayunkan lato-lato ke atas dan ke bawah hingga saling membentur dan membunyikan suara. Permainan tersebut semakin viral di Indonesia saat ini karena beberapa faktor. Salah satunya ialah karena maraknya kampanye melalui media sosial.",
+  "isStockReady": true,
+  "_class": "com.ecommerce.ecommerce.model.entity.Product"
+},{
+  "_id": {
+    "$oid": "63cbbba7913e21191ae2eca1"
+  },
+  "createdAt": "2023-01-21 18:17:11",
+  "name": "Lato-Lato Z31 Version",
+  "price": 30000,
+  "stock": 0,
+  "weight": 0.35,
+  "description": "Lato-lato merupakan mainan dengan dua buah bandulan berbentuk bola berat yang terbuat dari plastik atau kayu dan digantung dengan tali yang disambung pada ujung bandulan tersebut. Cara bermainnya cukup sederhana, pemain tinggal mengayunkan lato-lato ke atas dan ke bawah hingga saling membentur dan membunyikan suara. Permainan tersebut semakin viral di Indonesia saat ini karena beberapa faktor. Salah satunya ialah karena maraknya kampanye melalui media sosial.",
+  "isStockReady": false,
+  "_class": "com.ecommerce.ecommerce.model.entity.Product"
+}]
